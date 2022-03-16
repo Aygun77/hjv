@@ -2,9 +2,17 @@ class Main {
   public static void main(String[] args) {
     //tests
 	  //sfsndcs
+<<<<<<< HEAD
       /cvjjmbmn
               /nfgsndnvsn
               /dfnsd
+=======
+      //cvjjmbmn
+	     // /gndfvlevn
+	      //vnlvnlnvn
+	  //1243124
+	      
+>>>>>>> bf06b35d044fe0d5dde3dcd6c65fb02e16b3e311
     System.out.println(generatePlate("VA")); // -> e.g "ADS-2252"
     System.out.println(generatePlate("MD")); // -> e.g "3BS6121"
     System.out.println(generatePlate("DC")); // -> e.g "NS7821"
